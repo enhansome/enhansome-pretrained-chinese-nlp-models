@@ -1,0 +1,147 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "📑 目录导航"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 模型分类索引"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🤖 大模型系列"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔧 预训练模型系列"
+    },
+    {
+      "description": "📊 大模型评估基准 · 📦 开源模型库平台 · 📚 开源数据集库 · 📝 中文指令数据集 · 🎯 Embedding · 🔗 Other-Awesome\n📌 备注说明",
+      "items": [],
+      "title": "📦 资源与工具"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Base-LLM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Domain-Base-LLM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ChatLLM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Domain-ChatLLM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "MultiModal-ChatLLM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ReasoningLLM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Embedding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "大模型评估基准"
+    },
+    {
+      "description": "C-Eval 是一个全面的中文基础模型评估套件。它包含了13948个多项选择题，涵盖了52个不同的学科和四个难度级别，查看论文了解更多细节。\n[官方网站] [Github] [论文]",
+      "items": [],
+      "title": "1. C-Eval"
+    },
+    {
+      "description": "FlagEval是一个面向AI基础模型的评测工具包。我们的目标是探索和集合科学、公正、开放的基础模型评测基准、方法及工具，对多领域（如语言、语音、视觉及多模态）的基础模型进行多维度（如准确性、效率、鲁棒性等）的评测。我们希望通过对基础模型的评测，加深对基础模型的理解，促进相关的技术创新及产业应用。\n[官方网站] [Github]",
+      "items": [],
+      "title": "2. FlagEval"
+    },
+    {
+      "description": "SuperCLUE琅琊榜，这是一个中文通用大模型对战评价基准，它以众包的方式提供匿名、随机的对战。在本文中，我们发布了初步的结果和基于Elo评级系统的排行榜，Elo评级是国际象棋和其他竞技游戏中广泛使用的评级系统。我们邀请整个社区加入这项工作，贡献新的模型，并通过提问和投票选出你最喜欢的答案来评估它们。\n[官方网站] [Github]",
+      "items": [],
+      "title": "3. SuperCLUElyb"
+    },
+    {
+      "description": "该基准包括来自13个不同学科的516个学科的220,000个多项选择题，以及15,000个来自单一学科和多个学科的问题。我们对47个最新的大型语言模型在Xiezhi上进行了评估，结果表明在科学、工程、农学、医学和艺术等领域，大型语言模型的表现超过了人类的平均水平，但在经济学、法学、教育学、文学、历史和管理学等领域，人类的表现仍然远远超过了大型语言模型。\n[官方网站] [Github] [论文]",
+      "items": [],
+      "title": "4. XiezhiBenchmark"
+    },
+    {
+      "description": "由HuggingFace组织的一个LLM评测榜单，目前已评估了较多主流的开源LLM模型，以英文为主。主要目标是跟踪、排名和评估最新的大语言模型和聊天机器人，让所有人方便的观察到开源社区的进展和评估这些模型。这个排行榜有一个关键优势，社区中的任何成员都可以提交模型，并在 Hugging Face 的 GPU 集群上自动评估。\n[官方网站]",
+      "items": [],
+      "title": "5. Open LLM Leaderboard"
+    },
+    {
+      "description": "大模型安全测评依托于一套系统的安全评测框架，涵盖了仇恨言论、偏见歧视言论、犯罪违法、隐私、伦理道德等八大类别，包括细粒度划分的40余个二级安全类别。\n[官方网站] [Github] [论文]",
+      "items": [],
+      "title": "6. 中文大模型安全评测平台"
+    },
+    {
+      "description": "OpenCompass 是一款开源、高效、全面的评测大模型体系及开放平台。我们提供完整开源可复现的评测框架，支持大语言模型、多模态模型各类模型的一站式评测。利用分布式技术，即使面对千亿参数模型也能在数小时内完成评测。基于多个不同维度的高认可度数据集开放多样化的评测方式，包括零样本评测、小样本评测和思维链评测，全方位量化模型各个维度能力。\n[官方网站] [Github]",
+      "items": [],
+      "title": "7. OpenCompass大语言模型评测"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔧 预训练模型系列"
+    },
+    {
+      "description": "查看完整列表（共 52 个）→",
+      "items": [],
+      "title": "Other-Awesome"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Contributors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "↳ Stargazers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "↳ Forkers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "↳ Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:19:53.836Z",
+    "original_repository": "lonePatient/awesome-pretrained-chinese-nlp-models",
+    "original_repository_sha": "65abd11a01951c005768ad85d6187de475e04027",
+    "enhanced_repository": "enhansome/enhansome-pretrained-chinese-nlp-models",
+    "enhanced_repository_description": null,
+    "title": "Awesome Pretrained Chinese NLP Models with stars"
+  }
+}
