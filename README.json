@@ -1,7 +1,846 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "大规模基础模型：表格中只罗列出参数量以上模型。查看完整列表 →\n📋 查看全部 40+ 个模型请访问 Base-LLM 完整列表 →",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XVERSE-MoE",
+          "description": "255B / A36B 2024-09 中英 MoE 🤗HF GitHub xverse-ai -",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 856421779,
+            "language": "Python",
+            "last_commit": "2024-09-12T14:52:04Z",
+            "owner": "xverse-ai",
+            "repo": "XVERSE-MoE-A36B",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen-2.5",
+          "description": "0.5~72B (7档) 2024-09 中英 CD 🤗HF GitHub QwenLM Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752925682,
+            "language": "Python",
+            "last_commit": "2026-01-09T03:05:47Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3",
+            "stars": 27553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meta-llama-3.1",
+          "description": "8B / 70B / 405B 2024-07 多语 CD 🤗HF GitHub meta-llama -",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 772699441,
+            "language": "Python",
+            "last_commit": "2025-01-26T21:39:06Z",
+            "owner": "meta-llama",
+            "repo": "llama3",
+            "stars": 29246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "internlm2.5-Base",
+          "description": "7B 2024-07 中英 CD 🤗HF GitHub InternLM Technical Report",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 662878020,
+            "language": "Python",
+            "last_commit": "2025-10-30T00:35:43Z",
+            "owner": "InternLM",
+            "repo": "InternLM",
+            "stars": 7269
+          }
+        }
+      ],
+      "title": "Base-LLM"
+    },
+    {
+      "description": "各个垂直领域开源基础模型。查看完整列表 →\n📋 查看全部 13 个模型请访问 Domain-Base-LLM 完整列表 →",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Qwen-2.5",
+          "description": "1.5/7B 2024-09 中英 代码 🤗HF Qwen2.5 QwenLM CD Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752925682,
+            "language": "Python",
+            "last_commit": "2026-01-09T03:05:47Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3",
+            "stars": 27553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen-2.5",
+          "description": "1.5/7/72B 2024-09 中英 数学 🤗HF Qwen2.5 QwenLM CD Blog",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752925682,
+            "language": "Python",
+            "last_commit": "2026-01-09T03:05:47Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3",
+            "stars": 27553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChiMed-GPT",
+          "description": "13B 2023-10 中文 医疗 [🤗HF] ChiMed-GPT 中国科学技术大学 CD Paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 690854952,
+            "language": null,
+            "last_commit": "2023-12-29T11:54:50Z",
+            "owner": "synlp",
+            "repo": "ChiMed-GPT",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeShell-base",
+          "description": "7B 2023-10 中英 代码 [🤗HF] codeshell WisdomShell CD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 694958306,
+            "language": "Python",
+            "last_commit": "2024-07-18T10:20:27Z",
+            "owner": "WisdomShell",
+            "repo": "codeshell",
+            "stars": 1622
+          }
+        }
+      ],
+      "title": "Domain-Base-LLM"
+    },
+    {
+      "description": "具备问答和对话等功能的大型语言模型。查看完整列表 →\n📋 查看全部 180+ 个模型请访问 ChatLLM 完整列表 →",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GLM-4.6",
+          "description": "A32/355B 2025-10 MoE 🤗HF GLM-4.5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1022984892,
+            "language": "Python",
+            "last_commit": "2026-02-01T08:28:10Z",
+            "owner": "zai-org",
+            "repo": "GLM-4.5",
+            "stars": 4413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen3-Next",
+          "description": "A3/80B 2025-09 MoE 🤗HF Qwen3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752925682,
+            "language": "Python",
+            "last_commit": "2026-01-09T03:05:47Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3",
+            "stars": 27553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kimi-k2",
+          "description": "A32B/1T 2025-08 MoE HF Kimi-K2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1013143108,
+            "language": null,
+            "last_commit": "2026-01-21T05:33:12Z",
+            "owner": "MoonshotAI",
+            "repo": "Kimi-K2",
+            "stars": 11105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen-3",
+          "description": "4/14/30/235B 2025-05 CD/MoE 🤗HF Qwen3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752925682,
+            "language": "Python",
+            "last_commit": "2026-01-09T03:05:47Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3",
+            "stars": 27553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiMo",
+          "description": "7B 2025-05 CD 🤗HF MiMo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 973111956,
+            "language": "Python",
+            "last_commit": "2025-06-05T16:01:49Z",
+            "owner": "XiaomiMiMo",
+            "repo": "MiMo",
+            "stars": 2298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deepseek-v3",
+          "description": "671B 2024-12 MoE 🤗HF DeepSeek-V3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 908531752,
+            "language": "Python",
+            "last_commit": "2025-08-28T03:24:37Z",
+            "owner": "deepseek-ai",
+            "repo": "DeepSeek-V3",
+            "stars": 104402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hunyuan-Large",
+          "description": "A52/389B 2024-11 MoE 🤗HF Tencent-Hunyuan-Large",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 877138933,
+            "language": "Python",
+            "last_commit": "2024-12-06T08:15:56Z",
+            "owner": "Tencent-Hunyuan",
+            "repo": "Tencent-Hunyuan-Large",
+            "stars": 1580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen-2.5",
+          "description": "0.5/1.5/3/7/14/32/72B 2024-09 CD 🤗HF Qwen2.5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752925682,
+            "language": "Python",
+            "last_commit": "2026-01-09T03:05:47Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3",
+            "stars": 27553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniCPM3",
+          "description": "4B 2024-09 CD 🤗HF MiniCPM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749703336,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-27T06:50:07Z",
+            "owner": "OpenBMB",
+            "repo": "MiniCPM",
+            "stars": 10225
+          }
+        }
+      ],
+      "title": "ChatLLM"
+    },
+    {
+      "description": "各个垂直领域开源对话模型。查看完整列表 →\n📋 查看全部 60+ 个模型请访问 Domain-ChatLLM 完整列表 →",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Qwen3-Coder-Next",
+          "description": "/ 2026-02 代码 🤗HF Qwen3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752925682,
+            "language": "Python",
+            "last_commit": "2026-01-09T03:05:47Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3",
+            "stars": 27553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen3-Coder",
+          "description": "/ 2025-08 代码 🤗HF Qwen3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752925682,
+            "language": "Python",
+            "last_commit": "2026-01-09T03:05:47Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3",
+            "stars": 27553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSeek-Coder-V2",
+          "description": "A21/236B 2024-06 代码 🤗HF DeepSeek-Coder-V2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 814950657,
+            "language": null,
+            "last_commit": "2025-11-11T06:44:45Z",
+            "owner": "deepseek-ai",
+            "repo": "DeepSeek-Coder-V2",
+            "stars": 7001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeGeeX4",
+          "description": "9B 2024-07 代码 🤗HF CodeGeeX4",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 537827151,
+            "language": "Python",
+            "last_commit": "2024-08-13T05:59:38Z",
+            "owner": "zai-org",
+            "repo": "CodeGeeX",
+            "stars": 8806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yi-Coder",
+          "description": "1.5/9B 2024-09 代码 🤗HF Yi-Coder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 845322723,
+            "language": "HTML",
+            "last_commit": "2024-09-18T04:14:44Z",
+            "owner": "01-ai",
+            "repo": "Yi-Coder",
+            "stars": 450
+          }
+        }
+      ],
+      "title": "Domain-ChatLLM"
+    },
+    {
+      "description": "收集包含中文的多模态大模型，具备对话等功能。查看完整列表 →\n📋 查看全部 90+ 个模型请访问 MultiModal-ChatLLM 完整列表 →",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Qianfan-OCR",
+          "description": "4B 2026-03 文档 🤗HF GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1057964469,
+            "language": null,
+            "last_commit": "2026-03-18T09:50:35Z",
+            "owner": "baidubce",
+            "repo": "Qianfan-VL",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoGLM-Phone",
+          "description": "9B 2025-12 Agent 🤗HF Open-AutoGLM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1112189620,
+            "language": "Python",
+            "last_commit": "2026-03-06T08:38:39Z",
+            "owner": "zai-org",
+            "repo": "Open-AutoGLM",
+            "stars": 26079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dolphin-v2",
+          "description": "3B 2025-12 文图 🤗HF Dolphin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 982697710,
+            "language": "Python",
+            "last_commit": "2026-03-25T06:34:12Z",
+            "owner": "bytedance",
+            "repo": "Dolphin",
+            "stars": 9049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSeek-OCR",
+          "description": "3B 2025-10 文图 🤗HF DeepSeek-OCR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1078049937,
+            "language": "Python",
+            "last_commit": "2026-01-27T03:45:14Z",
+            "owner": "deepseek-ai",
+            "repo": "DeepSeek-OCR",
+            "stars": 23850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen-Image",
+          "description": "20B 2025-08 文图 🤗HF Qwen-Image",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1031256025,
+            "language": "Python",
+            "last_commit": "2026-02-10T07:37:37Z",
+            "owner": "QwenLM",
+            "repo": "Qwen-Image",
+            "stars": 8257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InternVL 2.5",
+          "description": "2~78B 2024-12 文图 🤗HF InternVL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 721995615,
+            "language": "Python",
+            "last_commit": "2025-09-22T01:36:48Z",
+            "owner": "OpenGVLab",
+            "repo": "InternVL",
+            "stars": 10142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen2-VL",
+          "description": "2/7/72B 2024-08 图文视 🤗HF Qwen2-VL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 849239437,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-30T04:47:30Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3-VL",
+            "stars": 19833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniCPM-V 2.6",
+          "description": "8B 2024-08 文图视 🤗HF MiniCPM-V",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 749647889,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:17:31Z",
+            "owner": "OpenBMB",
+            "repo": "MiniCPM-V",
+            "stars": 26222
+          }
+        }
+      ],
+      "title": "MultiModal-ChatLLM"
+    },
+    {
+      "description": "收集推理能力比较突出的中文大模型。查看完整列表 →\n📋 查看全部 50+ 个模型请访问 ReasoningLLM 完整列表 →",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MiMo-V2.5-Pro",
+          "description": "A42/1.02T 2026-04 MoE 🤗HF MiMo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 973111956,
+            "language": "Python",
+            "last_commit": "2025-06-05T16:01:49Z",
+            "owner": "XiaomiMiMo",
+            "repo": "MiMo",
+            "stars": 2298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen3.6",
+          "description": "A3/35B 2026-04 MoE 🤗HF Qwen3.6",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1054623307,
+            "language": null,
+            "last_commit": "2026-08-17T05:17:40Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3.8",
+            "stars": 3942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSeek-V3.2",
+          "description": "/ 2025-12 MoE 🤗HF DeepSeek-V3.2-Exp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1066112337,
+            "language": "Python",
+            "last_commit": "2025-11-18T02:57:11Z",
+            "owner": "deepseek-ai",
+            "repo": "DeepSeek-V3.2-Exp",
+            "stars": 1638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSeek-R1",
+          "description": "A37/671B 2025-01 MoE 🤗HF DeepSeek-R1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 919443098,
+            "language": null,
+            "last_commit": "2025-06-27T08:35:54Z",
+            "owner": "deepseek-ai",
+            "repo": "DeepSeek-R1",
+            "stars": 92036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiniMax-M1",
+          "description": "A46/456B 2025-06 MoE 🤗HF MiniMax-M1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1001889935,
+            "language": "Python",
+            "last_commit": "2025-07-07T11:57:22Z",
+            "owner": "MiniMax-AI",
+            "repo": "MiniMax-M1",
+            "stars": 3178
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Qwen3-Embedding",
+              "description": "0.6/4/8B 2025-06 多语 通用 [🤗HF] Qwen3-Embedding QwenLM Arxiv",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 996623392,
+                "language": "Python",
+                "last_commit": "2025-09-30T06:10:27Z",
+                "owner": "QwenLM",
+                "repo": "Qwen3-Embedding",
+                "stars": 2014
+              }
+            }
+          ],
+          "description": "MTEB排行榜: https://huggingface.co/spaces/mteb/leaderboard 镜像 查看完整列表 →\n📋 查看全部 15 个模型请访问 Embedding 完整列表 →",
+          "node_type": "group",
+          "title": "Embedding"
+        }
+      ],
+      "title": "ReasoningLLM"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[官方网站",
+              "description": "] [Github] [论文]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639699692,
+                "language": "Python",
+                "last_commit": "2025-07-27T03:55:53Z",
+                "owner": "hkust-nlp",
+                "repo": "ceval",
+                "stars": 1867
+              }
+            }
+          ],
+          "description": "C-Eval 是一个全面的中文基础模型评估套件。它包含了13948个多项选择题，涵盖了52个不同的学科和四个难度级别，查看论文了解更多细节。",
+          "node_type": "group",
+          "title": "1. C-Eval"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[官方网站",
+              "description": "] [Github]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 971148207,
+                "language": null,
+                "last_commit": "2025-05-16T09:13:01Z",
+                "owner": "FlagOpen",
+                "repo": "FlagEval",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "FlagEval是一个面向AI基础模型的评测工具包。我们的目标是探索和集合科学、公正、开放的基础模型评测基准、方法及工具，对多领域（如语言、语音、视觉及多模态）的基础模型进行多维度（如准确性、效率、鲁棒性等）的评测。我们希望通过对基础模型的评测，加深对基础模型的理解，促进相关的技术创新及产业应用。",
+          "node_type": "group",
+          "title": "2. FlagEval"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[官方网站",
+              "description": "] [Github]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 647560153,
+                "language": null,
+                "last_commit": "2024-06-19T15:01:05Z",
+                "owner": "CLUEbenchmark",
+                "repo": "SuperCLUElyb",
+                "stars": 141
+              }
+            }
+          ],
+          "description": "SuperCLUE琅琊榜，这是一个中文通用大模型对战评价基准，它以众包的方式提供匿名、随机的对战。在本文中，我们发布了初步的结果和基于Elo评级系统的排行榜，Elo评级是国际象棋和其他竞技游戏中广泛使用的评级系统。我们邀请整个社区加入这项工作，贡献新的模型，并通过提问和投票选出你最喜欢的答案来评估它们。",
+          "node_type": "group",
+          "title": "3. SuperCLUElyb"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[官方网站",
+              "description": "] [Github] [论文]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650763732,
+                "language": "Python",
+                "last_commit": "2023-12-05T11:26:48Z",
+                "owner": "MikeGu721",
+                "repo": "XiezhiBenchmark",
+                "stars": 98
+              }
+            }
+          ],
+          "description": "该基准包括来自13个不同学科的516个学科的220,000个多项选择题，以及15,000个来自单一学科和多个学科的问题。我们对47个最新的大型语言模型在Xiezhi上进行了评估，结果表明在科学、工程、农学、医学和艺术等领域，大型语言模型的表现超过了人类的平均水平，但在经济学、法学、教育学、文学、历史和管理学等领域，人类的表现仍然远远超过了大型语言模型。",
+          "node_type": "group",
+          "title": "4. XiezhiBenchmark"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[官方网站",
+              "description": "] [Github] [论文]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629538245,
+                "language": null,
+                "last_commit": "2024-02-27T08:42:12Z",
+                "owner": "thu-coai",
+                "repo": "Safety-Prompts",
+                "stars": 1213
+              }
+            }
+          ],
+          "description": "大模型安全测评依托于一套系统的安全评测框架，涵盖了仇恨言论、偏见歧视言论、犯罪违法、隐私、伦理道德等八大类别，包括细粒度划分的40余个二级安全类别。",
+          "node_type": "group",
+          "title": "6. 中文大模型安全评测平台"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[官方网站",
+              "description": "] [Github]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654124617,
+                "language": "Python",
+                "last_commit": "2026-08-19T04:15:41Z",
+                "owner": "open-compass",
+                "repo": "opencompass",
+                "stars": 7333
+              }
+            }
+          ],
+          "description": "OpenCompass 是一款开源、高效、全面的评测大模型体系及开放平台。我们提供完整开源可复现的评测框架，支持大语言模型、多模态模型各类模型的一站式评测。利用分布式技术，即使面对千亿参数模型也能在数小时内完成评测。基于多个不同维度的高认可度数据集开放多样化的评测方式，包括零样本评测、小样本评测和思维链评测，全方位量化模型各个维度能力。",
+          "node_type": "group",
+          "title": "7. OpenCompass大语言模型评测"
+        }
+      ],
+      "title": "大模型评估基准"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "多个中英文NLP数据集，并可申请下载100GB的高质量中文预训练语料CLUECorpus2020",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236152498,
+            "language": null,
+            "last_commit": "2026-02-06T11:43:34Z",
+            "owner": "CLUEbenchmark",
+            "repo": "CLUECorpus2020",
+            "stars": 1018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MNBVC",
+          "description": "Massive Never-ending BT Vast Chinese corpus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 583824526,
+            "language": null,
+            "last_commit": "2026-08-15T11:52:11Z",
+            "owner": "esbatmop",
+            "repo": "MNBVC",
+            "stars": 4267
+          }
+        }
+      ],
+      "title": "开源数据集库"
+    },
+    {
+      "description": "其他优质 Awesome 资源列表\n查看完整列表（共 52 个）→",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-OPD",
+          "description": "使用 On-Policy Distillation (OPD) 和 On-Policy Self-Distillation (OPSD) 训练 LLM/VLM/Agent/Draft Model 的开源仓库和论文精选列表 thinkwee GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1222978157,
+            "language": null,
+            "last_commit": "2026-07-31T11:08:48Z",
+            "owner": "thinkwee",
+            "repo": "AwesomeOPD",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Claude-Skills",
+          "description": "Claude技能、资源和工具 ComposioHQ GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1078079172,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:45:44Z",
+            "owner": "ComposioHQ",
+            "repo": "awesome-claude-skills",
+            "stars": 73141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Claude-Code",
+          "description": "Claude Code相关技能和工具 hesreallyhim GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969302809,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:09:28Z",
+            "owner": "hesreallyhim",
+            "repo": "awesome-claude-code",
+            "stars": 52911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-OpenClaw-Skills",
+          "description": "OpenClaw社区构建的技能 VoltAgent GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1141704318,
+            "language": null,
+            "last_commit": "2026-08-23T08:45:20Z",
+            "owner": "VoltAgent",
+            "repo": "awesome-openclaw-skills",
+            "stars": 52150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Agents",
+          "description": "开源AI Agent工具和产品 kyrolabs GitHub",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 661283123,
+            "language": null,
+            "last_commit": "2026-08-23T08:27:55Z",
+            "owner": "kyrolabs",
+            "repo": "awesome-agents",
+            "stars": 2778
+          }
+        }
+      ],
+      "title": "Other-Awesome"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T11:45:21.071Z",
+    "last_updated": "2026-08-24T13:53:22.368Z",
     "original_repository": "lonePatient/awesome-pretrained-chinese-nlp-models",
     "original_repository_id": 188584527,
     "original_repository_sha": "ba836ab702d25f31973655dfb328f7479e2dfc50",
