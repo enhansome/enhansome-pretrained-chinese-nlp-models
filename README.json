@@ -16,7 +16,8 @@
             "owner": "xverse-ai",
             "repo": "XVERSE-MoE-A36B",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27563
-          }
+            "stars": 27565
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2025-01-26T21:39:06Z",
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29245
-          }
+            "stars": 29244
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2025-10-30T00:35:43Z",
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7271
-          }
+            "stars": 7272
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         }
       ],
       "title": "Base-LLM"
@@ -81,8 +85,9 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27563
-          }
+            "stars": 27565
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -96,8 +101,9 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27563
-          }
+            "stars": 27565
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "synlp",
             "repo": "ChiMed-GPT",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2024-07-18T10:20:27Z",
             "owner": "WisdomShell",
             "repo": "codeshell",
-            "stars": 1621
-          }
+            "stars": 1620
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         }
       ],
       "title": "Domain-Base-LLM"
@@ -147,8 +155,9 @@
             "last_commit": "2026-02-01T08:28:10Z",
             "owner": "zai-org",
             "repo": "GLM-4.5",
-            "stars": 4418
-          }
+            "stars": 4421
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -162,8 +171,9 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27563
-          }
+            "stars": 27565
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -177,8 +187,9 @@
             "last_commit": "2026-01-21T05:33:12Z",
             "owner": "MoonshotAI",
             "repo": "Kimi-K2",
-            "stars": 11106
-          }
+            "stars": 11109
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -192,8 +203,9 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27563
-          }
+            "stars": 27565
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -207,8 +219,9 @@
             "last_commit": "2025-06-05T16:01:49Z",
             "owner": "XiaomiMiMo",
             "repo": "MiMo",
-            "stars": 2302
-          }
+            "stars": 2303
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -222,8 +235,9 @@
             "last_commit": "2025-08-28T03:24:37Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-V3",
-            "stars": 104421
-          }
+            "stars": 104428
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "Tencent-Hunyuan",
             "repo": "Tencent-Hunyuan-Large",
             "stars": 1581
-          }
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -252,8 +267,9 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27563
-          }
+            "stars": 27565
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -267,8 +283,9 @@
             "last_commit": "2026-07-27T06:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 10259
-          }
+            "stars": 10265
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         }
       ],
       "title": "ChatLLM"
@@ -288,8 +305,9 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27563
-          }
+            "stars": 27565
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -303,8 +321,9 @@
             "last_commit": "2026-01-09T03:05:47Z",
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27563
-          }
+            "stars": 27565
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder-V2",
             "stars": 7007
-          }
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -333,8 +353,9 @@
             "last_commit": "2024-08-13T05:59:38Z",
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8805
-          }
+            "stars": 8804
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "01-ai",
             "repo": "Yi-Coder",
             "stars": 451
-          }
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         }
       ],
       "title": "Domain-ChatLLM"
@@ -370,7 +392,8 @@
             "owner": "baidubce",
             "repo": "Qianfan-VL",
             "stars": 423
-          }
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -384,8 +407,9 @@
             "last_commit": "2026-03-06T08:38:39Z",
             "owner": "zai-org",
             "repo": "Open-AutoGLM",
-            "stars": 26110
-          }
+            "stars": 26118
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -399,8 +423,9 @@
             "last_commit": "2026-03-25T06:34:12Z",
             "owner": "bytedance",
             "repo": "Dolphin",
-            "stars": 9049
-          }
+            "stars": 9048
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -414,8 +439,9 @@
             "last_commit": "2026-01-27T03:45:14Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-OCR",
-            "stars": 23855
-          }
+            "stars": 23859
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -429,8 +455,9 @@
             "last_commit": "2026-02-10T07:37:37Z",
             "owner": "QwenLM",
             "repo": "Qwen-Image",
-            "stars": 8270
-          }
+            "stars": 8274
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -444,8 +471,9 @@
             "last_commit": "2025-09-22T01:36:48Z",
             "owner": "OpenGVLab",
             "repo": "InternVL",
-            "stars": 10146
-          }
+            "stars": 10148
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -459,8 +487,9 @@
             "last_commit": "2026-01-30T04:47:30Z",
             "owner": "QwenLM",
             "repo": "Qwen3-VL",
-            "stars": 19851
-          }
+            "stars": 19856
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -474,8 +503,9 @@
             "last_commit": "2026-08-26T09:50:07Z",
             "owner": "OpenBMB",
             "repo": "MiniCPM-V",
-            "stars": 26245
-          }
+            "stars": 26251
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         }
       ],
       "title": "MultiModal-ChatLLM"
@@ -495,8 +525,9 @@
             "last_commit": "2025-06-05T16:01:49Z",
             "owner": "XiaomiMiMo",
             "repo": "MiMo",
-            "stars": 2302
-          }
+            "stars": 2303
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -510,8 +541,9 @@
             "last_commit": "2026-08-17T05:17:40Z",
             "owner": "QwenLM",
             "repo": "Qwen3.8",
-            "stars": 3998
-          }
+            "stars": 4006
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -526,7 +558,8 @@
             "owner": "deepseek-ai",
             "repo": "DeepSeek-V3.2-Exp",
             "stars": 1641
-          }
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -540,8 +573,9 @@
             "last_commit": "2025-06-27T08:35:54Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-R1",
-            "stars": 92039
-          }
+            "stars": 92040
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -556,7 +590,8 @@
             "owner": "MiniMax-AI",
             "repo": "MiniMax-M1",
             "stars": 3180
-          }
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "children": [
@@ -573,7 +608,8 @@
                 "owner": "QwenLM",
                 "repo": "Qwen3-Embedding",
                 "stars": 2018
-              }
+              },
+              "first_seen": "2026-08-28T21:26:34.065Z"
             }
           ],
           "description": "MTEB排行榜: https://huggingface.co/spaces/mteb/leaderboard 镜像 查看完整列表 →\n📋 查看全部 15 个模型请访问 Embedding 完整列表 →",
@@ -601,7 +637,8 @@
                 "owner": "hkust-nlp",
                 "repo": "ceval",
                 "stars": 1867
-              }
+              },
+              "first_seen": "2026-08-28T21:26:34.065Z"
             }
           ],
           "description": "C-Eval 是一个全面的中文基础模型评估套件。它包含了13948个多项选择题，涵盖了52个不同的学科和四个难度级别，查看论文了解更多细节。",
@@ -623,7 +660,8 @@
                 "owner": "FlagOpen",
                 "repo": "FlagEval",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T21:26:34.065Z"
             }
           ],
           "description": "FlagEval是一个面向AI基础模型的评测工具包。我们的目标是探索和集合科学、公正、开放的基础模型评测基准、方法及工具，对多领域（如语言、语音、视觉及多模态）的基础模型进行多维度（如准确性、效率、鲁棒性等）的评测。我们希望通过对基础模型的评测，加深对基础模型的理解，促进相关的技术创新及产业应用。",
@@ -645,7 +683,8 @@
                 "owner": "CLUEbenchmark",
                 "repo": "SuperCLUElyb",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T21:26:34.065Z"
             }
           ],
           "description": "SuperCLUE琅琊榜，这是一个中文通用大模型对战评价基准，它以众包的方式提供匿名、随机的对战。在本文中，我们发布了初步的结果和基于Elo评级系统的排行榜，Elo评级是国际象棋和其他竞技游戏中广泛使用的评级系统。我们邀请整个社区加入这项工作，贡献新的模型，并通过提问和投票选出你最喜欢的答案来评估它们。",
@@ -667,7 +706,8 @@
                 "owner": "MikeGu721",
                 "repo": "XiezhiBenchmark",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T21:26:34.065Z"
             }
           ],
           "description": "该基准包括来自13个不同学科的516个学科的220,000个多项选择题，以及15,000个来自单一学科和多个学科的问题。我们对47个最新的大型语言模型在Xiezhi上进行了评估，结果表明在科学、工程、农学、医学和艺术等领域，大型语言模型的表现超过了人类的平均水平，但在经济学、法学、教育学、文学、历史和管理学等领域，人类的表现仍然远远超过了大型语言模型。",
@@ -689,7 +729,8 @@
                 "owner": "thu-coai",
                 "repo": "Safety-Prompts",
                 "stars": 1214
-              }
+              },
+              "first_seen": "2026-08-28T21:26:34.065Z"
             }
           ],
           "description": "大模型安全测评依托于一套系统的安全评测框架，涵盖了仇恨言论、偏见歧视言论、犯罪违法、隐私、伦理道德等八大类别，包括细粒度划分的40余个二级安全类别。",
@@ -710,8 +751,9 @@
                 "last_commit": "2026-08-27T06:37:44Z",
                 "owner": "open-compass",
                 "repo": "opencompass",
-                "stars": 7371
-              }
+                "stars": 7373
+              },
+              "first_seen": "2026-08-28T21:26:34.065Z"
             }
           ],
           "description": "OpenCompass 是一款开源、高效、全面的评测大模型体系及开放平台。我们提供完整开源可复现的评测框架，支持大语言模型、多模态模型各类模型的一站式评测。利用分布式技术，即使面对千亿参数模型也能在数小时内完成评测。基于多个不同维度的高认可度数据集开放多样化的评测方式，包括零样本评测、小样本评测和思维链评测，全方位量化模型各个维度能力。",
@@ -737,7 +779,8 @@
             "owner": "CLUEbenchmark",
             "repo": "CLUECorpus2020",
             "stars": 1018
-          }
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -748,11 +791,12 @@
             "archived": false,
             "id": 583824526,
             "language": null,
-            "last_commit": "2026-08-15T11:52:11Z",
+            "last_commit": "2026-08-28T15:06:54Z",
             "owner": "esbatmop",
             "repo": "MNBVC",
             "stars": 4268
-          }
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         }
       ],
       "title": "开源数据集库"
@@ -772,8 +816,9 @@
             "last_commit": "2026-08-26T22:51:26Z",
             "owner": "thinkwee",
             "repo": "AwesomeOPD",
-            "stars": 844
-          }
+            "stars": 846
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -787,8 +832,9 @@
             "last_commit": "2026-08-10T21:45:44Z",
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73570
-          }
+            "stars": 73810
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -799,11 +845,12 @@
             "archived": false,
             "id": 969302809,
             "language": "Python",
-            "last_commit": "2026-08-27T15:43:04Z",
+            "last_commit": "2026-08-28T21:24:16Z",
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 53094
-          }
+            "stars": 53137
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -817,8 +864,9 @@
             "last_commit": "2026-08-23T08:45:20Z",
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 52207
-          }
+            "stars": 52223
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         },
         {
           "node_type": "item",
@@ -832,15 +880,16 @@
             "last_commit": "2026-08-27T01:16:43Z",
             "owner": "kyrolabs",
             "repo": "awesome-agents",
-            "stars": 2787
-          }
+            "stars": 2788
+          },
+          "first_seen": "2026-08-28T21:26:34.065Z"
         }
       ],
       "title": "Other-Awesome"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:02:55.372Z",
+    "last_updated": "2026-08-28T21:26:34.065Z",
     "original_repository_info": {
       "archived": false,
       "id": 188584527,

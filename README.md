@@ -55,10 +55,10 @@
 | 模型               | 大小               | 时间      | 语言 | 架构  | 下载                                                                              | 项目                                                                                                | 机构         | 备注                                                   |
 | :--------------- | :--------------- | :------ | :- | :-- | :------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------ | :--------- | :--------------------------------------------------- |
 | XVERSE-MoE       | 255B / A36B      | 2024-09 | 中英 | MoE | [🤗HF](https://huggingface.co/xverse/XVERSE-MoE-A36B)                           | [GitHub](https://github.com/xverse-ai/XVERSE-MoE-A36B) ⭐ 37 \| 🐛 0 \| 🌐 Python \| 📅 2024-09-12 | xverse-ai  | -                                                    |
-| Qwen-2.5         | 0.5\~72B (7档)    | 2024-09 | 中英 | CD  | [🤗HF](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e) | [GitHub](https://github.com/QwenLM/Qwen2.5) ⭐ 27,563 \| 🐛 65 \| 🌐 Python \| 📅 2026-01-09       | QwenLM     | [Blog](https://qwenlm.github.io/blog/qwen2.5/)       |
+| Qwen-2.5         | 0.5\~72B (7档)    | 2024-09 | 中英 | CD  | [🤗HF](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e) | [GitHub](https://github.com/QwenLM/Qwen2.5) ⭐ 27,565 \| 🐛 66 \| 🌐 Python \| 📅 2026-01-09       | QwenLM     | [Blog](https://qwenlm.github.io/blog/qwen2.5/)       |
 | Tele-FLM         | 52B / 102B / 1TB | 2024-07 | 多语 | CD  | [🤗HF](https://huggingface.co/CofeAI)                                           | -                                                                                                 | CofeAI     | [Paper](https://arxiv.org/pdf/2404.16645)            |
 | meta-llama-3.1   | 8B / 70B / 405B  | 2024-07 | 多语 | CD  | [🤗HF](https://huggingface.co/meta-llama)                                       | [GitHub](https://github.com/meta-llama/llama3) ⚠️ Archived                                        | meta-llama | -                                                    |
-| internlm2.5-Base | 7B               | 2024-07 | 中英 | CD  | [🤗HF](https://huggingface.co/internlm)                                         | [GitHub](https://github.com/InternLM/InternLM) ⭐ 7,271 \| 🐛 8 \| 🌐 Python \| 📅 2025-10-30      | InternLM   | [Technical Report](https://arxiv.org/abs/2403.17297) |
+| internlm2.5-Base | 7B               | 2024-07 | 中英 | CD  | [🤗HF](https://huggingface.co/internlm)                                         | [GitHub](https://github.com/InternLM/InternLM) ⭐ 7,272 \| 🐛 8 \| 🌐 Python \| 📅 2025-10-30      | InternLM   | [Technical Report](https://arxiv.org/abs/2403.17297) |
 
 > 📋 查看全部 40+ 个模型请访问 [Base-LLM 完整列表 →](docs/base-llm.md)
 
@@ -70,11 +70,11 @@
 
 |          模型         |     大小    | 时间      |  语言 | 领域 |                                           下载                                          |                                                 项目地址                                                 |                            机构/个人                            |  架构 |                       文献                       | 备注 |
 | :-----------------: | :-------: | ------- | :-: | -- | :-----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------: | :-: | :--------------------------------------------: | -- |
-|       Qwen-2.5      |   1.5/7B  | 2024-09 |  中英 | 代码 | [🤗HF](https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f) |     [Qwen2.5](https://github.com/QwenLM/Qwen2.5) ⭐ 27,563 \| 🐛 65 \| 🌐 Python \| 📅 2026-01-09     |             [QwenLM](https://github.com/QwenLM)             |  CD | [Blog](https://qwenlm.github.io/blog/qwen2.5/) |    |
-|       Qwen-2.5      | 1.5/7/72B | 2024-09 |  中英 | 数学 |  [🤗HF](https://huggingface.co/collections/Qwen/qwen25-math-66eaa240a1b7d5ee65f1da3e) |     [Qwen2.5](https://github.com/QwenLM/Qwen2.5) ⭐ 27,563 \| 🐛 65 \| 🌐 Python \| 📅 2026-01-09     |             [QwenLM](https://github.com/QwenLM)             |  CD | [Blog](https://qwenlm.github.io/blog/qwen2.5/) |    |
+|       Qwen-2.5      |   1.5/7B  | 2024-09 |  中英 | 代码 | [🤗HF](https://huggingface.co/collections/Qwen/qwen25-coder-66eaa22e6f99801bf65b0c2f) |     [Qwen2.5](https://github.com/QwenLM/Qwen2.5) ⭐ 27,565 \| 🐛 66 \| 🌐 Python \| 📅 2026-01-09     |             [QwenLM](https://github.com/QwenLM)             |  CD | [Blog](https://qwenlm.github.io/blog/qwen2.5/) |    |
+|       Qwen-2.5      | 1.5/7/72B | 2024-09 |  中英 | 数学 |  [🤗HF](https://huggingface.co/collections/Qwen/qwen25-math-66eaa240a1b7d5ee65f1da3e) |     [Qwen2.5](https://github.com/QwenLM/Qwen2.5) ⭐ 27,565 \| 🐛 66 \| 🌐 Python \| 📅 2026-01-09     |             [QwenLM](https://github.com/QwenLM)             |  CD | [Blog](https://qwenlm.github.io/blog/qwen2.5/) |    |
 | Tongyi-Finance-Base |    14B    | 2023-11 |  中文 | 金融 |  [ModelScope](https://modelscope.cn/models/TongyiFinance/Tongyi-Finance-14B/summary)  |           [通义金融-14B](https://modelscope.cn/models/TongyiFinance/Tongyi-Finance-14B/summary)          | [通义金融大模型](https://modelscope.cn/organization/TongyiFinance) |  CD |                                                |    |
 |      ChiMed-GPT     |    13B    | 2023-10 |  中文 | 医疗 |                \[[🤗HF\]](https://huggingface.co/SYNLP/ChiMed-GPT-1.0)                |           [ChiMed-GPT](https://github.com/synlp/ChiMed-GPT) ⭐ 107 \| 🐛 5 \| 📅 2023-12-29           |             [中国科学技术大学](https://github.com/synlp)            |  CD |    [Paper](https://arxiv.org/abs/2311.06025)   |    |
-|    CodeShell-base   |     7B    | 2023-10 |  中英 | 代码 |                \[[🤗HF\]](https://huggingface.co/WisdomShell/CodeShell)               | [codeshell](https://github.com/WisdomShell/codeshell) ⭐ 1,621 \| 🐛 45 \| 🌐 Python \| 📅 2024-07-18 |        [WisdomShell](https://github.com/WisdomShell)        |  CD |                                                |    |
+|    CodeShell-base   |     7B    | 2023-10 |  中英 | 代码 |                \[[🤗HF\]](https://huggingface.co/WisdomShell/CodeShell)               | [codeshell](https://github.com/WisdomShell/codeshell) ⭐ 1,620 \| 🐛 45 \| 🌐 Python \| 📅 2024-07-18 |        [WisdomShell](https://github.com/WisdomShell)        |  CD |                                                |    |
 
 > 📋 查看全部 13 个模型请访问 [Domain-Base-LLM 完整列表 →](docs/domain-base-llm.md)
 
@@ -86,17 +86,17 @@
 
 | 模型            | 大小                    | 时间      | 架构     | 下载                                                                              | 项目                                                                                                                       |
 | :------------ | :-------------------- | :------ | :----- | :------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------- |
-| GLM-4.6       | A32/355B              | 2025-10 | MoE    | [🤗HF](https://huggingface.co/zai-org/GLM-4.5-Base)                             | [GLM-4.5](https://github.com/zai-org/GLM-4.5) ⭐ 4,418 \| 🐛 29 \| 🌐 Python \| 📅 2026-02-01                             |
+| GLM-4.6       | A32/355B              | 2025-10 | MoE    | [🤗HF](https://huggingface.co/zai-org/GLM-4.5-Base)                             | [GLM-4.5](https://github.com/zai-org/GLM-4.5) ⭐ 4,421 \| 🐛 30 \| 🌐 Python \| 📅 2026-02-01                             |
 | Ling-1T       | 1T                    | 2025-10 | CD     | [🤗HF](https://huggingface.co/inclusionAI/Ling-1T)                              | /                                                                                                                        |
-| Qwen3-Next    | A3/80B                | 2025-09 | MoE    | [🤗HF](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct)                 | [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,563 \| 🐛 65 \| 🌐 Python \| 📅 2026-01-09                                 |
-| Kimi-k2       | A32B/1T               | 2025-08 | MoE    | [HF](https://huggingface.co/moonshotai/Kimi-K2-Instruct)                        | [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) ⭐ 11,106 \| 🐛 70 \| 📅 2026-01-21                                      |
+| Qwen3-Next    | A3/80B                | 2025-09 | MoE    | [🤗HF](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct)                 | [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,565 \| 🐛 66 \| 🌐 Python \| 📅 2026-01-09                                 |
+| Kimi-k2       | A32B/1T               | 2025-08 | MoE    | [HF](https://huggingface.co/moonshotai/Kimi-K2-Instruct)                        | [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) ⭐ 11,109 \| 🐛 70 \| 📅 2026-01-21                                      |
 | ERNIE-4.5     | A47/300B A3/21B       | 2025-07 | MoE    | [🤗HF](https://huggingface.co/baidu)                                            | /                                                                                                                        |
-| Qwen-3        | 4/14/30/235B          | 2025-05 | CD/MoE | [🤗HF](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f)  | [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,563 \| 🐛 65 \| 🌐 Python \| 📅 2026-01-09                                 |
-| MiMo          | 7B                    | 2025-05 | CD     | [🤗HF](https://huggingface.co/XiaomiMiMo)                                       | [MiMo](https://github.com/XiaomiMiMo/MiMo) ⭐ 2,302 \| 🐛 70 \| 🌐 Python \| 📅 2025-06-05                                |
-| deepseek-v3   | 671B                  | 2024-12 | MoE    | [🤗HF](https://huggingface.co/deepseek-ai/DeepSeek-V3)                          | [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ⭐ 104,421 \| 🐛 205 \| 🌐 Python \| 📅 2025-08-28              |
+| Qwen-3        | 4/14/30/235B          | 2025-05 | CD/MoE | [🤗HF](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f)  | [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,565 \| 🐛 66 \| 🌐 Python \| 📅 2026-01-09                                 |
+| MiMo          | 7B                    | 2025-05 | CD     | [🤗HF](https://huggingface.co/XiaomiMiMo)                                       | [MiMo](https://github.com/XiaomiMiMo/MiMo) ⭐ 2,303 \| 🐛 70 \| 🌐 Python \| 📅 2025-06-05                                |
+| deepseek-v3   | 671B                  | 2024-12 | MoE    | [🤗HF](https://huggingface.co/deepseek-ai/DeepSeek-V3)                          | [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ⭐ 104,428 \| 🐛 206 \| 🌐 Python \| 📅 2025-08-28              |
 | Hunyuan-Large | A52/389B              | 2024-11 | MoE    | [🤗HF](https://huggingface.co/tencent/Tencent-Hunyuan-Large)                    | [Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) ⭐ 1,581 \| 🐛 19 \| 🌐 Python \| 📅 2024-12-06 |
-| Qwen-2.5      | 0.5/1.5/3/7/14/32/72B | 2024-09 | CD     | [🤗HF](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e) | [Qwen2.5](https://github.com/QwenLM/Qwen2.5) ⭐ 27,563 \| 🐛 65 \| 🌐 Python \| 📅 2026-01-09                             |
-| MiniCPM3      | 4B                    | 2024-09 | CD     | [🤗HF](https://huggingface.co/openbmb/MiniCPM3-4B)                              | [MiniCPM](https://github.com/OpenBMB/MiniCPM) ⭐ 10,259 \| 🐛 19 \| 🌐 Jupyter Notebook \| 📅 2026-07-27                  |
+| Qwen-2.5      | 0.5/1.5/3/7/14/32/72B | 2024-09 | CD     | [🤗HF](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e) | [Qwen2.5](https://github.com/QwenLM/Qwen2.5) ⭐ 27,565 \| 🐛 66 \| 🌐 Python \| 📅 2026-01-09                             |
+| MiniCPM3      | 4B                    | 2024-09 | CD     | [🤗HF](https://huggingface.co/openbmb/MiniCPM3-4B)                              | [MiniCPM](https://github.com/OpenBMB/MiniCPM) ⭐ 10,265 \| 🐛 19 \| 🌐 Jupyter Notebook \| 📅 2026-07-27                  |
 
 > 📋 查看全部 180+ 个模型请访问 [ChatLLM 完整列表 →](docs/chat-llm.md)
 
@@ -106,12 +106,12 @@
 
 | 模型                | 大小       | 时间      | 领域   | 下载                                                                    | 项目                                                                                                      |
 | :---------------- | :------- | :------ | :--- | :-------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ |
-| Qwen3-Coder-Next  | /        | 2026-02 | 代码   | [🤗HF](https://huggingface.co/Qwen)                                   | [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,563 \| 🐛 65 \| 🌐 Python \| 📅 2026-01-09                |
+| Qwen3-Coder-Next  | /        | 2026-02 | 代码   | [🤗HF](https://huggingface.co/Qwen)                                   | [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,565 \| 🐛 66 \| 🌐 Python \| 📅 2026-01-09                |
 | Skywork-SWE       | 32B      | 2025-06 | 软件工程 | [🤗HF](https://huggingface.co/Skywork/Skywork-SWE-32B)                | /                                                                                                       |
 | Kimi-Dev          | /        | 2025-06 | 代码   | [🤗HF](https://huggingface.co/moonshotai)                             | /                                                                                                       |
-| Qwen3-Coder       | /        | 2025-08 | 代码   | [🤗HF](https://huggingface.co/Qwen)                                   | [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,563 \| 🐛 65 \| 🌐 Python \| 📅 2026-01-09                |
+| Qwen3-Coder       | /        | 2025-08 | 代码   | [🤗HF](https://huggingface.co/Qwen)                                   | [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,565 \| 🐛 66 \| 🌐 Python \| 📅 2026-01-09                |
 | DeepSeek-Coder-V2 | A21/236B | 2024-06 | 代码   | [🤗HF](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct) | [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) ⭐ 7,007 \| 🐛 78 \| 📅 2025-11-11 |
-| CodeGeeX4         | 9B       | 2024-07 | 代码   | [🤗HF](https://huggingface.co/THUDM/codegeex4-all-9b)                 | [CodeGeeX4](https://github.com/THUDM/CodeGeeX) ⭐ 8,805 \| 🐛 188 \| 🌐 Python \| 📅 2024-08-13          |
+| CodeGeeX4         | 9B       | 2024-07 | 代码   | [🤗HF](https://huggingface.co/THUDM/codegeex4-all-9b)                 | [CodeGeeX4](https://github.com/THUDM/CodeGeeX) ⭐ 8,804 \| 🐛 188 \| 🌐 Python \| 📅 2024-08-13          |
 | Yi-Coder          | 1.5/9B   | 2024-09 | 代码   | [🤗HF](https://huggingface.co/01-ai)                                  | [Yi-Coder](https://github.com/01-ai/Yi-Coder) ⭐ 451 \| 🐛 7 \| 🌐 HTML \| 📅 2024-09-18                 |
 | OpenCoder         | 1.5/8B   | 2024-11 | 代码   | [🤗HF](https://huggingface.co/infly/OpenCoder)                        | [OpenCoder](https://github.com/OpenCoder-4/OpenCoder)                                                   |
 
@@ -126,13 +126,13 @@
 | HY-World-2.0  | 1.2B     | 2026-04 | 3D世界  | [🤗HF](https://huggingface.co/tencent/HY-World-2.0)                                       | [HY-World-2.0](https://github.com/Tencent/HY-World-2.0)                                                      |
 | Gemma-4-IT    | E2B\~31B | 2026-04 | 通用    | [🤗HF](https://huggingface.co/collections/google/gemma-4)                                 | -                                                                                                            |
 | Qianfan-OCR   | 4B       | 2026-03 | 文档    | [🤗HF](https://huggingface.co/baidu/Qianfan-OCR)                                          | [GitHub](https://github.com/baidubce/Qianfan-VL) ⭐ 423 \| 🐛 11 \| 📅 2026-03-18                             |
-| AutoGLM-Phone | 9B       | 2025-12 | Agent | [🤗HF](https://huggingface.co/zai-org/AutoGLM-Phone-9B)                                   | [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) ⭐ 26,110 \| 🐛 261 \| 🌐 Python \| 📅 2026-03-06     |
-| Dolphin-v2    | 3B       | 2025-12 | 文图    | [🤗HF](https://huggingface.co/ByteDance/Dolphin-v2)                                       | [Dolphin](https://github.com/bytedance/Dolphin) ⭐ 9,049 \| 🐛 77 \| 🌐 Python \| 📅 2026-03-25               |
-| DeepSeek-OCR  | 3B       | 2025-10 | 文图    | [🤗HF](https://huggingface.co/deepseek-ai/DeepSeek-OCR)                                   | [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 23,855 \| 🐛 287 \| 🌐 Python \| 📅 2026-01-27 |
-| Qwen-Image    | 20B      | 2025-08 | 文图    | [🤗HF](https://huggingface.co/Qwen/Qwen-Image)                                            | [Qwen-Image](https://github.com/QwenLM/Qwen-Image) ⭐ 8,270 \| 🐛 236 \| 🌐 Python \| 📅 2026-02-10           |
-| InternVL 2.5  | 2\~78B   | 2024-12 | 文图    | [🤗HF](https://huggingface.co/collections/OpenGVLab/internvl-25-673e1019b66e2218f68d7c1c) | [InternVL](https://github.com/OpenGVLab/InternVL) ⭐ 10,146 \| 🐛 315 \| 🌐 Python \| 📅 2025-09-22           |
-| Qwen2-VL      | 2/7/72B  | 2024-08 | 图文视   | [🤗HF](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct)                                  | [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) ⭐ 19,851 \| 🐛 424 \| 🌐 Jupyter Notebook \| 📅 2026-01-30    |
-| MiniCPM-V 2.6 | 8B       | 2024-08 | 文图视   | [🤗HF](https://huggingface.co/openbmb/MiniCPM-V-2_6)                                      | [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) ⭐ 26,245 \| 🐛 59 \| 🌐 Python \| 📅 2026-08-26            |
+| AutoGLM-Phone | 9B       | 2025-12 | Agent | [🤗HF](https://huggingface.co/zai-org/AutoGLM-Phone-9B)                                   | [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) ⭐ 26,118 \| 🐛 261 \| 🌐 Python \| 📅 2026-03-06     |
+| Dolphin-v2    | 3B       | 2025-12 | 文图    | [🤗HF](https://huggingface.co/ByteDance/Dolphin-v2)                                       | [Dolphin](https://github.com/bytedance/Dolphin) ⭐ 9,048 \| 🐛 77 \| 🌐 Python \| 📅 2026-03-25               |
+| DeepSeek-OCR  | 3B       | 2025-10 | 文图    | [🤗HF](https://huggingface.co/deepseek-ai/DeepSeek-OCR)                                   | [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) ⭐ 23,859 \| 🐛 288 \| 🌐 Python \| 📅 2026-01-27 |
+| Qwen-Image    | 20B      | 2025-08 | 文图    | [🤗HF](https://huggingface.co/Qwen/Qwen-Image)                                            | [Qwen-Image](https://github.com/QwenLM/Qwen-Image) ⭐ 8,274 \| 🐛 236 \| 🌐 Python \| 📅 2026-02-10           |
+| InternVL 2.5  | 2\~78B   | 2024-12 | 文图    | [🤗HF](https://huggingface.co/collections/OpenGVLab/internvl-25-673e1019b66e2218f68d7c1c) | [InternVL](https://github.com/OpenGVLab/InternVL) ⭐ 10,148 \| 🐛 315 \| 🌐 Python \| 📅 2025-09-22           |
+| Qwen2-VL      | 2/7/72B  | 2024-08 | 图文视   | [🤗HF](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct)                                  | [Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) ⭐ 19,856 \| 🐛 424 \| 🌐 Jupyter Notebook \| 📅 2026-01-30    |
+| MiniCPM-V 2.6 | 8B       | 2024-08 | 文图视   | [🤗HF](https://huggingface.co/openbmb/MiniCPM-V-2_6)                                      | [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) ⭐ 26,251 \| 🐛 59 \| 🌐 Python \| 📅 2026-08-26            |
 
 > 📋 查看全部 90+ 个模型请访问 [MultiModal-ChatLLM 完整列表 →](docs/multimodal-chat-llm.md)
 
@@ -146,12 +146,12 @@
 | Kimi-K2.7-Code  | A32/1T    | 2026-06 | MoE | [🤗HF](https://huggingface.co/moonshotai/Kimi-K2.7-Code)           | /                                                                                                                    |
 | MiniMax-M3      | A23/428B  | 2026-06 | MoE | [🤗HF](https://huggingface.co/MiniMaxAI/MiniMax-M3)                | /                                                                                                                    |
 | DeepSeek-V4-Pro | A49/1.6T  | 2026-04 | MoE | [🤗HF](https://huggingface.co/collections/deepseek-ai/deepseek-v4) | [DeepSeek-V4](https://github.com/deepseek-ai/DeepSeek-V4)                                                            |
-| MiMo-V2.5-Pro   | A42/1.02T | 2026-04 | MoE | [🤗HF](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)            | [MiMo](https://github.com/XiaomiMiMo/MiMo) ⭐ 2,302 \| 🐛 70 \| 🌐 Python \| 📅 2025-06-05                            |
+| MiMo-V2.5-Pro   | A42/1.02T | 2026-04 | MoE | [🤗HF](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)            | [MiMo](https://github.com/XiaomiMiMo/MiMo) ⭐ 2,303 \| 🐛 70 \| 🌐 Python \| 📅 2025-06-05                            |
 | Kimi-K2.6       | A32/1T    | 2026-04 | MoE | [🤗HF](https://huggingface.co/moonshotai/Kimi-K2.6)                | [Kimi-K2.6](https://github.com/MoonshotAI/Kimi-K2.6)                                                                 |
-| Qwen3.6         | A3/35B    | 2026-04 | MoE | [🤗HF](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)                | [Qwen3.6](https://github.com/QwenLM/Qwen3.6) ⭐ 3,998 \| 🐛 15 \| 📅 2026-08-17                                       |
+| Qwen3.6         | A3/35B    | 2026-04 | MoE | [🤗HF](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)                | [Qwen3.6](https://github.com/QwenLM/Qwen3.6) ⭐ 4,006 \| 🐛 15 \| 📅 2026-08-17                                       |
 | DeepSeek-V3.2   | /         | 2025-12 | MoE | [🤗HF](https://huggingface.co/deepseek-ai/DeepSeek-V3.2)           | [DeepSeek-V3.2-Exp](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp) ⭐ 1,641 \| 🐛 28 \| 🌐 Python \| 📅 2025-11-18 |
 | QwQ-32B         | 32B       | 2025-03 | CD  | [🤗HF](https://huggingface.co/Qwen/QwQ-32B)                        | /                                                                                                                    |
-| DeepSeek-R1     | A37/671B  | 2025-01 | MoE | [🤗HF](https://huggingface.co/deepseek-ai/DeepSeek-R1)             | [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,039 \| 🐛 35 \| 📅 2025-06-27                         |
+| DeepSeek-R1     | A37/671B  | 2025-01 | MoE | [🤗HF](https://huggingface.co/deepseek-ai/DeepSeek-R1)             | [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,040 \| 🐛 34 \| 📅 2025-06-27                         |
 | MiniMax-M1      | A46/456B  | 2025-06 | MoE | [🤗HF](https://huggingface.co/MiniMaxAI)                           | [MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) ⭐ 3,180 \| 🐛 31 \| 🌐 Python \| 📅 2025-07-07                |
 
 > 📋 查看全部 50+ 个模型请访问 [ReasoningLLM 完整列表 →](docs/reasoning-llm.md)
@@ -212,7 +212,7 @@ SuperCLUE琅琊榜，这是一个中文通用大模型对战评价基准，它�
 
 OpenCompass 是一款开源、高效、全面的评测大模型体系及开放平台。我们提供完整开源可复现的评测框架，支持大语言模型、多模态模型各类模型的一站式评测。利用分布式技术，即使面对千亿参数模型也能在数小时内完成评测。基于多个不同维度的高认可度数据集开放多样化的评测方式，包括零样本评测、小样本评测和思维链评测，全方位量化模型各个维度能力。
 
-\[[官方网站](https://opencompass.org.cn/)]   \[[Github](https://github.com/open-compass/opencompass) ⭐ 7,371 | 🐛 381 | 🌐 Python | 📅 2026-08-27]
+\[[官方网站](https://opencompass.org.cn/)]   \[[Github](https://github.com/open-compass/opencompass) ⭐ 7,373 | 🐛 384 | 🌐 Python | 📅 2026-08-27]
 
 ## 开源模型库平台
 
@@ -250,7 +250,7 @@ OpenCompass 是一款开源、高效、全面的评测大模型体系及开放�
 
 * 多个中英文NLP数据集，并可申请下载100GB的高质量中文预训练语料[CLUECorpus2020](https://github.com/CLUEbenchmark/CLUECorpus2020) ⭐ 1,018 | 🐛 10 | 📅 2026-02-06
 
-1. [MNBVC](https://github.com/esbatmop/MNBVC) ⭐ 4,268 | 🐛 22 | 📅 2026-08-15: Massive Never-ending BT Vast Chinese corpus
+1. [MNBVC](https://github.com/esbatmop/MNBVC) ⭐ 4,268 | 🐛 22 | 📅 2026-08-28: Massive Never-ending BT Vast Chinese corpus
 
 * 超大规模中文语料集
 
@@ -279,11 +279,11 @@ OpenCompass 是一款开源、高效、全面的评测大模型体系及开放�
 
 | 名称                      | 说明                                                                                                             | 作者/组织        | 地址                                                                                                               |
 | :---------------------- | :------------------------------------------------------------------------------------------------------------- | :----------- | :--------------------------------------------------------------------------------------------------------------- |
-| Awesome-OPD             | 使用 On-Policy Distillation (OPD) 和 On-Policy Self-Distillation (OPSD) 训练 LLM/VLM/Agent/Draft Model 的开源仓库和论文精选列表 | thinkwee     | [GitHub](https://github.com/thinkwee/AwesomeOPD) ⭐ 844 \| 🐛 0 \| 📅 2026-08-26                                  |
-| Awesome-Claude-Skills   | Claude技能、资源和工具                                                                                                 | ComposioHQ   | [GitHub](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 73,570 \| 🐛 1,334 \| 🌐 Python \| 📅 2026-08-10 |
-| Awesome-Claude-Code     | Claude Code相关技能和工具                                                                                             | hesreallyhim | [GitHub](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 53,094 \| 🐛 936 \| 🌐 Python \| 📅 2026-08-27   |
-| Awesome-OpenClaw-Skills | OpenClaw社区构建的技能                                                                                                | VoltAgent    | [GitHub](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 52,207 \| 🐛 1 \| 📅 2026-08-23                 |
-| Awesome-Agents          | 开源AI Agent工具和产品                                                                                                | kyrolabs     | [GitHub](https://github.com/kyrolabs/awesome-agents) ⭐ 2,787 \| 🐛 2 \| 📅 2026-08-27                            |
+| Awesome-OPD             | 使用 On-Policy Distillation (OPD) 和 On-Policy Self-Distillation (OPSD) 训练 LLM/VLM/Agent/Draft Model 的开源仓库和论文精选列表 | thinkwee     | [GitHub](https://github.com/thinkwee/AwesomeOPD) ⭐ 846 \| 🐛 0 \| 📅 2026-08-26                                  |
+| Awesome-Claude-Skills   | Claude技能、资源和工具                                                                                                 | ComposioHQ   | [GitHub](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 73,810 \| 🐛 1,346 \| 🌐 Python \| 📅 2026-08-10 |
+| Awesome-Claude-Code     | Claude Code相关技能和工具                                                                                             | hesreallyhim | [GitHub](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 53,137 \| 🐛 944 \| 🌐 Python \| 📅 2026-08-28   |
+| Awesome-OpenClaw-Skills | OpenClaw社区构建的技能                                                                                                | VoltAgent    | [GitHub](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 52,223 \| 🐛 1 \| 📅 2026-08-23                 |
+| Awesome-Agents          | 开源AI Agent工具和产品                                                                                                | kyrolabs     | [GitHub](https://github.com/kyrolabs/awesome-agents) ⭐ 2,788 \| 🐛 2 \| 📅 2026-08-27                            |
 
 [查看完整列表（共 52 个）→](docs/other-awesome.md)
 
@@ -327,4 +327,4 @@ OpenCompass 是一款开源、高效、全面的评测大模型体系及开放�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
