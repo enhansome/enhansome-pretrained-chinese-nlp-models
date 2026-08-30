@@ -40,7 +40,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27568,
+            "stars": 27572,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -82,7 +82,7 @@
             "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7273,
+            "stars": 7275,
             "topics": [
               "chatbot",
               "chinese",
@@ -120,7 +120,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27568,
+            "stars": 27572,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -141,7 +141,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27568,
+            "stars": 27572,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -210,7 +210,7 @@
             "open_issues": 30,
             "owner": "zai-org",
             "repo": "GLM-4.5",
-            "stars": 4421,
+            "stars": 4422,
             "topics": [
               "agent",
               "glm",
@@ -237,7 +237,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27568,
+            "stars": 27572,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -255,10 +255,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-01-21T05:33:12Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "MoonshotAI",
             "repo": "Kimi-K2",
-            "stars": 11110,
+            "stars": 11109,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -279,7 +279,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27568,
+            "stars": 27572,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -318,10 +318,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-08-28T03:24:37Z",
-            "open_issues": 210,
+            "open_issues": 209,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-V3",
-            "stars": 104435,
+            "stars": 104439,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -342,7 +342,7 @@
             "open_issues": 19,
             "owner": "Tencent-Hunyuan",
             "repo": "Tencent-Hunyuan-Large",
-            "stars": 1581,
+            "stars": 1582,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -363,7 +363,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27568,
+            "stars": 27572,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -384,7 +384,7 @@
             "open_issues": 19,
             "owner": "OpenBMB",
             "repo": "MiniCPM",
-            "stars": 10270,
+            "stars": 10272,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -411,7 +411,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27568,
+            "stars": 27572,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -432,7 +432,7 @@
             "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27568,
+            "stars": 27572,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -453,7 +453,7 @@
             "open_issues": 78,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder-V2",
-            "stars": 7007,
+            "stars": 7006,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -512,6 +512,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "MiniMax-Music3",
+          "description": "≈11B 2026-08 文音 🤗HF MiniMax-Music3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1330652407,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-08-14T08:23:47Z",
+            "open_issues": 9,
+            "owner": "MiniMax-AI",
+            "repo": "MiniMax-Music3",
+            "stars": 761,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T15:21:21.866Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MiniMax-H3",
+          "description": "33B 2026-07 音视频 🤗HF MiniMax-H3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1317041031,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-08-15T08:31:17Z",
+            "open_issues": 26,
+            "owner": "MiniMax-AI",
+            "repo": "MiniMax-H3",
+            "stars": 7484,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T15:21:21.866Z"
+        },
+        {
+          "node_type": "item",
           "title": "Qianfan-OCR",
           "description": "4B 2026-03 文档 🤗HF GitHub",
           "children": [],
@@ -530,184 +572,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
-        },
-        {
-          "node_type": "item",
-          "title": "AutoGLM-Phone",
-          "description": "9B 2025-12 Agent 🤗HF Open-AutoGLM",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone",
-            "homepage": "https://autoglm.z.ai/blog",
-            "id": 1112189620,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-03-06T08:38:39Z",
-            "open_issues": 261,
-            "owner": "zai-org",
-            "repo": "Open-AutoGLM",
-            "stars": 26123,
-            "topics": [
-              "agent",
-              "phone-use-agent"
-            ]
-          },
-          "first_seen": "2026-08-28T21:26:34.065Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Dolphin-v2",
-          "description": "3B 2025-12 文图 🤗HF Dolphin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
-            "homepage": null,
-            "id": 982697710,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2026-03-25T06:34:12Z",
-            "open_issues": 77,
-            "owner": "bytedance",
-            "repo": "Dolphin",
-            "stars": 9048,
-            "topics": [
-              "document-analysis",
-              "layout-analysis",
-              "ocr",
-              "parser",
-              "pdf",
-              "pdf-converter",
-              "pdf-parser",
-              "python",
-              "vlm-ocr"
-            ]
-          },
-          "first_seen": "2026-08-28T21:26:34.065Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DeepSeek-OCR",
-          "description": "3B 2025-10 文图 🤗HF DeepSeek-OCR",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Contexts Optical Compression",
-            "homepage": null,
-            "id": 1078049937,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-01-27T03:45:14Z",
-            "open_issues": 288,
-            "owner": "deepseek-ai",
-            "repo": "DeepSeek-OCR",
-            "stars": 23861,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:26:34.065Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Qwen-Image",
-          "description": "20B 2025-08 文图 🤗HF Qwen-Image",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Qwen-Image is a powerful image generation foundation model capable of complex text rendering and precise image editing.",
-            "homepage": null,
-            "id": 1031256025,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-02-10T07:37:37Z",
-            "open_issues": 237,
-            "owner": "QwenLM",
-            "repo": "Qwen-Image",
-            "stars": 8274,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:26:34.065Z"
-        },
-        {
-          "node_type": "item",
-          "title": "InternVL 2.5",
-          "description": "2~78B 2024-12 文图 🤗HF InternVL",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o.  接近GPT-4o表现的开源多模态对话模型",
-            "homepage": "https://internvl.readthedocs.io/en/latest/",
-            "id": 721995615,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-09-22T01:36:48Z",
-            "open_issues": 315,
-            "owner": "OpenGVLab",
-            "repo": "InternVL",
-            "stars": 10147,
-            "topics": [
-              "gpt",
-              "gpt-4o",
-              "gpt-4v",
-              "image-classification",
-              "image-text-retrieval",
-              "llm",
-              "multi-modal",
-              "semantic-segmentation",
-              "video-classification",
-              "vision-language-model",
-              "vit-22b",
-              "vit-6b"
-            ]
-          },
-          "first_seen": "2026-08-28T21:26:34.065Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Qwen2-VL",
-          "description": "2/7/72B 2024-08 图文视 🤗HF Qwen2-VL",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
-            "homepage": null,
-            "id": 849239437,
-            "language": "Jupyter Notebook",
-            "license": "Apache-2.0",
-            "last_commit": "2026-01-30T04:47:30Z",
-            "open_issues": 425,
-            "owner": "QwenLM",
-            "repo": "Qwen3-VL",
-            "stars": 19859,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:26:34.065Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MiniCPM-V 2.6",
-          "description": "8B 2024-08 文图视 🤗HF MiniCPM-V",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone",
-            "homepage": null,
-            "id": 749647889,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-26T09:50:07Z",
-            "open_issues": 60,
-            "owner": "OpenBMB",
-            "repo": "MiniCPM-V",
-            "stars": 26254,
-            "topics": [
-              "minicpm",
-              "minicpm-o",
-              "minicpm-v",
-              "multi-modal"
-            ]
-          },
-          "first_seen": "2026-08-28T21:26:34.065Z"
         }
       ],
       "title": "MultiModal-ChatLLM"
@@ -717,116 +581,125 @@
       "items": [
         {
           "node_type": "item",
-          "title": "MiMo-V2.5-Pro",
-          "description": "A42/1.02T 2026-04 MoE 🤗HF MiMo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining",
-            "homepage": null,
-            "id": 973111956,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-06-05T16:01:49Z",
-            "open_issues": 70,
-            "owner": "XiaomiMiMo",
-            "repo": "MiMo",
-            "stars": 2304,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:26:34.065Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Qwen3.6",
-          "description": "A3/35B 2026-04 MoE 🤗HF Qwen3.6",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Qwen3.8 is the large language model series developed by Qwen team, Alibaba Group.",
-            "homepage": "https://qwen.ai",
-            "id": 1054623307,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-17T05:17:40Z",
-            "open_issues": 15,
-            "owner": "QwenLM",
-            "repo": "Qwen3.8",
-            "stars": 4013,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:26:34.065Z"
-        },
-        {
-          "node_type": "item",
-          "title": "DeepSeek-V3.2",
-          "description": "/ 2025-12 MoE 🤗HF DeepSeek-V3.2-Exp",
+          "title": "Hy4-preview",
+          "description": "A49/770B 2026-08 MoE 🤗HF Hy4-preview",
           "children": [],
           "repo_info": {
             "archived": false,
             "description": null,
             "homepage": null,
-            "id": 1066112337,
+            "id": 1348302752,
             "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-11-18T02:57:11Z",
-            "open_issues": 28,
-            "owner": "deepseek-ai",
-            "repo": "DeepSeek-V3.2-Exp",
-            "stars": 1641,
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T12:48:34Z",
+            "open_issues": 1,
+            "owner": "Tencent-Hunyuan",
+            "repo": "Hy4-preview",
+            "stars": 271,
             "topics": []
           },
-          "first_seen": "2026-08-28T21:26:34.065Z"
+          "first_seen": "2026-08-30T15:21:21.866Z"
         },
         {
           "node_type": "item",
-          "title": "DeepSeek-R1",
-          "description": "A37/671B 2025-01 MoE 🤗HF DeepSeek-R1",
+          "title": "GLM-5.3-Flash",
+          "description": "A18/320B 2026-08 MoE 🤗HF GLM-5",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 919443098,
+            "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+            "homepage": "https://z.ai/blog/glm-5.2",
+            "id": 1153372704,
             "language": null,
-            "license": "MIT",
-            "last_commit": "2025-06-27T08:35:54Z",
-            "open_issues": 33,
-            "owner": "deepseek-ai",
-            "repo": "DeepSeek-R1",
-            "stars": 92037,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T21:26:34.065Z"
-        },
-        {
-          "node_type": "item",
-          "title": "MiniMax-M1",
-          "description": "A46/456B 2025-06 MoE 🤗HF MiniMax-M1",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.",
-            "homepage": "https://www.minimax.io/",
-            "id": 1001889935,
-            "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2025-07-07T11:57:22Z",
-            "open_issues": 32,
-            "owner": "MiniMax-AI",
-            "repo": "MiniMax-M1",
-            "stars": 3180,
+            "last_commit": "2026-08-27T13:22:56Z",
+            "open_issues": 47,
+            "owner": "zai-org",
+            "repo": "GLM-5",
+            "stars": 7105,
             "topics": [
-              "large-language-models",
+              "agentic-ai",
+              "coding",
               "llm",
-              "minimax-m1",
-              "reasoning-models"
+              "long-horizon"
             ]
           },
-          "first_seen": "2026-08-28T21:26:34.065Z"
+          "first_seen": "2026-08-30T15:21:21.866Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GLM-5.3",
+          "description": "/ 2026-08 MoE 🤗HF GLM-5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+            "homepage": "https://z.ai/blog/glm-5.2",
+            "id": 1153372704,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-27T13:22:56Z",
+            "open_issues": 47,
+            "owner": "zai-org",
+            "repo": "GLM-5",
+            "stars": 7105,
+            "topics": [
+              "agentic-ai",
+              "coding",
+              "llm",
+              "long-horizon"
+            ]
+          },
+          "first_seen": "2026-08-30T15:21:21.866Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen3.8-Flash-Next",
+          "description": "A6/180B 2026-08 MoE 🤗HF Qwen3.8-Flash-Next",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Qwen3.8-Flash-Next is the foundation model developed by Qwen Team, Alibaba Group.",
+            "homepage": "https://qwen.ai",
+            "id": 1344453575,
+            "language": null,
+            "license": null,
+            "last_commit": "2026-08-27T07:31:36Z",
+            "open_issues": 5,
+            "owner": "QwenLM",
+            "repo": "Qwen3.8-Flash-Next",
+            "stars": 263,
+            "topics": []
+          },
+          "first_seen": "2026-08-30T15:21:21.866Z"
         },
         {
           "children": [
+            {
+              "node_type": "item",
+              "title": "WeMM-Embedding-2B",
+              "description": "2B 2026-08 中英 通用 [🤗HF] WeMM-Embedding Tencent Arxiv，通用多模态 Embedding，支持文本/图像/视频/视觉文档，2048 维，支持 MRL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+                "homepage": null,
+                "id": 1345606017,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T04:34:44Z",
+                "open_issues": 5,
+                "owner": "Tencent",
+                "repo": "WeMM-Embedding",
+                "stars": 926,
+                "topics": [
+                  "embedding-models",
+                  "multimodal",
+                  "multimodal-llm"
+                ]
+              },
+              "first_seen": "2026-08-30T15:21:21.866Z"
+            },
             {
               "node_type": "item",
               "title": "Qwen3-Embedding",
@@ -843,13 +716,13 @@
                 "open_issues": 136,
                 "owner": "QwenLM",
                 "repo": "Qwen3-Embedding",
-                "stars": 2020,
+                "stars": 2022,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:34.065Z"
             }
           ],
-          "description": "MTEB排行榜: https://huggingface.co/spaces/mteb/leaderboard 镜像 查看完整列表 →\n📋 查看全部 15 个模型请访问 Embedding 完整列表 →",
+          "description": "MTEB排行榜: https://huggingface.co/spaces/mteb/leaderboard 镜像 查看完整列表 →\n📋 查看全部 16 个模型请访问 Embedding 完整列表 →",
           "node_type": "group",
           "title": "Embedding"
         }
@@ -1023,10 +896,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T06:37:44Z",
-                "open_issues": 385,
+                "open_issues": 386,
                 "owner": "open-compass",
                 "repo": "opencompass",
-                "stars": 7374,
+                "stars": 7377,
                 "topics": [
                   "benchmark",
                   "chatgpt",
@@ -1098,7 +971,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4271,
+            "stars": 4272,
             "topics": [
               "chinese",
               "chinese-language",
@@ -1156,10 +1029,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-08-10T21:45:44Z",
-            "open_issues": 1350,
+            "open_issues": 1354,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 73862,
+            "stars": 74049,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -1194,11 +1067,11 @@
             "id": 969302809,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T15:07:53Z",
-            "open_issues": 948,
+            "last_commit": "2026-08-30T15:08:04Z",
+            "open_issues": 957,
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 53170,
+            "stars": 53221,
             "topics": [
               "agent-skills",
               "agentic-code",
@@ -1239,7 +1112,7 @@
             "open_issues": 1,
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 52233,
+            "stars": 52257,
             "topics": [
               "agent-skills",
               "awesome",
@@ -1269,11 +1142,11 @@
             "id": 661283123,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-27T01:16:43Z",
-            "open_issues": 3,
+            "last_commit": "2026-08-30T04:43:16Z",
+            "open_issues": 0,
             "owner": "kyrolabs",
             "repo": "awesome-agents",
-            "stars": 2788,
+            "stars": 2787,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -1283,7 +1156,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:39:23.755Z",
+    "last_updated": "2026-08-30T15:21:21.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合",
@@ -1291,11 +1164,11 @@
       "id": 188584527,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-08-14T03:30:33Z",
+      "last_commit": "2026-08-30T03:20:26Z",
       "open_issues": 6,
       "owner": "lonePatient",
       "repo": "awesome-pretrained-chinese-nlp-models",
-      "stars": 5582,
+      "stars": 5583,
       "topics": [
         "bert",
         "chinese",
@@ -1316,7 +1189,7 @@
         "xlnet"
       ]
     },
-    "original_repository_sha": "ba836ab702d25f31973655dfb328f7479e2dfc50",
+    "original_repository_sha": "40dcfbfd3f5e7d05a4e18864ec5c64c6cf1de6bc",
     "enhanced_repository": "enhansome/enhansome-pretrained-chinese-nlp-models",
     "enhanced_repository_description": null,
     "title": "Awesome Pretrained Chinese NLP Models with stars"
