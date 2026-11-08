@@ -89,14 +89,14 @@
 | GLM-4.6       | A32/355B              | 2025-10 | MoE    | [🤗HF](https://huggingface.co/zai-org/GLM-4.5-Base)                             | [GLM-4.5](https://github.com/zai-org/GLM-4.5) ⭐ 4,426 \| 🐛 34 \| 🌐 Python \| 📅 2026-02-01                             |
 | Ling-1T       | 1T                    | 2025-10 | CD     | [🤗HF](https://huggingface.co/inclusionAI/Ling-1T)                              | /                                                                                                                        |
 | Qwen3-Next    | A3/80B                | 2025-09 | MoE    | [🤗HF](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct)                 | [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,720 \| 🐛 69 \| 🌐 Python \| 📅 2026-01-09                                 |
-| Kimi-k2       | A32B/1T               | 2025-08 | MoE    | [HF](https://huggingface.co/moonshotai/Kimi-K2-Instruct)                        | [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) ⭐ 11,108 \| 🐛 74 \| 📅 2026-01-21                                      |
+| Kimi-k2       | A32B/1T               | 2025-08 | MoE    | [HF](https://huggingface.co/moonshotai/Kimi-K2-Instruct)                        | [Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) ⭐ 11,108 \| 🐛 75 \| 📅 2026-01-21                                      |
 | ERNIE-4.5     | A47/300B A3/21B       | 2025-07 | MoE    | [🤗HF](https://huggingface.co/baidu)                                            | /                                                                                                                        |
 | Qwen-3        | 4/14/30/235B          | 2025-05 | CD/MoE | [🤗HF](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f)  | [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,720 \| 🐛 69 \| 🌐 Python \| 📅 2026-01-09                                 |
 | MiMo          | 7B                    | 2025-05 | CD     | [🤗HF](https://huggingface.co/XiaomiMiMo)                                       | [MiMo](https://github.com/XiaomiMiMo/MiMo) ⭐ 2,409 \| 🐛 83 \| 🌐 Python \| 📅 2026-10-29                                |
-| deepseek-v3   | 671B                  | 2024-12 | MoE    | [🤗HF](https://huggingface.co/deepseek-ai/DeepSeek-V3)                          | [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ⭐ 104,752 \| 🐛 323 \| 🌐 Python \| 📅 2025-08-28              |
+| deepseek-v3   | 671B                  | 2024-12 | MoE    | [🤗HF](https://huggingface.co/deepseek-ai/DeepSeek-V3)                          | [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) ⭐ 104,770 \| 🐛 327 \| 🌐 Python \| 📅 2025-08-28              |
 | Hunyuan-Large | A52/389B              | 2024-11 | MoE    | [🤗HF](https://huggingface.co/tencent/Tencent-Hunyuan-Large)                    | [Tencent-Hunyuan-Large](https://github.com/Tencent/Tencent-Hunyuan-Large) ⭐ 1,583 \| 🐛 19 \| 🌐 Python \| 📅 2024-12-06 |
 | Qwen-2.5      | 0.5/1.5/3/7/14/32/72B | 2024-09 | CD     | [🤗HF](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e) | [Qwen2.5](https://github.com/QwenLM/Qwen2.5) ⭐ 27,720 \| 🐛 69 \| 🌐 Python \| 📅 2026-01-09                             |
-| MiniCPM3      | 4B                    | 2024-09 | CD     | [🤗HF](https://huggingface.co/openbmb/MiniCPM3-4B)                              | [MiniCPM](https://github.com/OpenBMB/MiniCPM) ⭐ 11,821 \| 🐛 22 \| 🌐 Jupyter Notebook \| 📅 2026-09-21                  |
+| MiniCPM3      | 4B                    | 2024-09 | CD     | [🤗HF](https://huggingface.co/openbmb/MiniCPM3-4B)                              | [MiniCPM](https://github.com/OpenBMB/MiniCPM) ⭐ 11,825 \| 🐛 23 \| 🌐 Jupyter Notebook \| 📅 2026-09-21                  |
 
 > 📋 查看全部 180+ 个模型请访问 [ChatLLM 完整列表 →](docs/chat-llm.md)
 
@@ -111,7 +111,7 @@
 | Kimi-Dev          | /        | 2025-06 | 代码   | [🤗HF](https://huggingface.co/moonshotai)                             | /                                                                                                       |
 | Qwen3-Coder       | /        | 2025-08 | 代码   | [🤗HF](https://huggingface.co/Qwen)                                   | [Qwen3](https://github.com/QwenLM/Qwen3) ⭐ 27,720 \| 🐛 69 \| 🌐 Python \| 📅 2026-01-09                |
 | DeepSeek-Coder-V2 | A21/236B | 2024-06 | 代码   | [🤗HF](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct) | [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) ⭐ 7,029 \| 🐛 79 \| 📅 2025-11-11 |
-| CodeGeeX4         | 9B       | 2024-07 | 代码   | [🤗HF](https://huggingface.co/THUDM/codegeex4-all-9b)                 | [CodeGeeX4](https://github.com/THUDM/CodeGeeX) ⭐ 8,795 \| 🐛 187 \| 🌐 Python \| 📅 2024-08-13          |
+| CodeGeeX4         | 9B       | 2024-07 | 代码   | [🤗HF](https://huggingface.co/THUDM/codegeex4-all-9b)                 | [CodeGeeX4](https://github.com/THUDM/CodeGeeX) ⭐ 8,794 \| 🐛 187 \| 🌐 Python \| 📅 2024-08-13          |
 | Yi-Coder          | 1.5/9B   | 2024-09 | 代码   | [🤗HF](https://huggingface.co/01-ai)                                  | [Yi-Coder](https://github.com/01-ai/Yi-Coder) ⭐ 453 \| 🐛 7 \| 🌐 HTML \| 📅 2024-09-18                 |
 | OpenCoder         | 1.5/8B   | 2024-11 | 代码   | [🤗HF](https://huggingface.co/infly/OpenCoder)                        | [OpenCoder](https://github.com/OpenCoder-4/OpenCoder)                                                   |
 
@@ -123,8 +123,8 @@
 
 | 模型             | 大小       | 时间      | 领域   | 下载                                                        | 项目                                                                                                     |
 | :------------- | :------- | :------ | :--- | :-------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- |
-| MiniMax-Music3 | ≈11B     | 2026-08 | 文音   | [🤗HF](https://huggingface.co/MiniMaxAI/MiniMax-Music3)   | [MiniMax-Music3](https://github.com/MiniMax-AI/MiniMax-Music3) ⭐ 1,019 \| 🐛 11 \| 📅 2026-10-26       |
-| MiniMax-H3     | 33B      | 2026-07 | 音视频  | [🤗HF](https://huggingface.co/MiniMaxAI/MiniMax-H3)       | [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) ⭐ 11,585 \| 🐛 49 \| 🌐 Python \| 📅 2026-10-28 |
+| MiniMax-Music3 | ≈11B     | 2026-08 | 文音   | [🤗HF](https://huggingface.co/MiniMaxAI/MiniMax-Music3)   | [MiniMax-Music3](https://github.com/MiniMax-AI/MiniMax-Music3) ⭐ 1,024 \| 🐛 11 \| 📅 2026-10-26       |
+| MiniMax-H3     | 33B      | 2026-07 | 音视频  | [🤗HF](https://huggingface.co/MiniMaxAI/MiniMax-H3)       | [MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) ⭐ 11,615 \| 🐛 49 \| 🌐 Python \| 📅 2026-10-28 |
 | HY-World-2.0   | 1.2B     | 2026-04 | 3D世界 | [🤗HF](https://huggingface.co/tencent/HY-World-2.0)       | [HY-World-2.0](https://github.com/Tencent/HY-World-2.0)                                                |
 | Gemma-4-IT     | E2B\~31B | 2026-04 | 通用   | [🤗HF](https://huggingface.co/collections/google/gemma-4) | -                                                                                                      |
 | Qianfan-OCR    | 4B       | 2026-03 | 文档   | [🤗HF](https://huggingface.co/baidu/Qianfan-OCR)          | [GitHub](https://github.com/baidubce/Qianfan-VL) ⭐ 424 \| 🐛 11 \| 📅 2026-03-18                       |
@@ -137,10 +137,10 @@
 
 | 模型                 | 大小       | 时间      | 架构  | 下载                                                          | 项目                                                                                                        |
 | :----------------- | :------- | :------ | :-- | :---------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
-| Hy4-preview        | A49/770B | 2026-08 | MoE | [🤗HF](https://huggingface.co/tencent/Hy4-preview)          | [Hy4-preview](https://github.com/Tencent-Hunyuan/Hy4-preview) ⭐ 430 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-28 |
-| GLM-5.3-Flash      | A18/320B | 2026-08 | MoE | [🤗HF](https://huggingface.co/zai-org/GLM-5.3-Flash)        | [GLM-5](https://github.com/zai-org/GLM-5) ⭐ 7,441 \| 🐛 19 \| 📅 2026-10-15                               |
-| GLM-5.3            | /        | 2026-08 | MoE | [🤗HF](https://huggingface.co/zai-org/GLM-5.3)              | [GLM-5](https://github.com/zai-org/GLM-5) ⭐ 7,441 \| 🐛 19 \| 📅 2026-10-15                               |
-| Qwen3.8-Flash-Next | A6/180B  | 2026-08 | MoE | [🤗HF](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)      | [Qwen3.8-Flash-Next](https://github.com/QwenLM/Qwen3.8-Flash-Next) ⭐ 461 \| 🐛 9 \| 📅 2026-08-27         |
+| Hy4-preview        | A49/770B | 2026-08 | MoE | [🤗HF](https://huggingface.co/tencent/Hy4-preview)          | [Hy4-preview](https://github.com/Tencent-Hunyuan/Hy4-preview) ⭐ 434 \| 🐛 3 \| 🌐 Python \| 📅 2026-08-28 |
+| GLM-5.3-Flash      | A18/320B | 2026-08 | MoE | [🤗HF](https://huggingface.co/zai-org/GLM-5.3-Flash)        | [GLM-5](https://github.com/zai-org/GLM-5) ⭐ 7,444 \| 🐛 21 \| 📅 2026-10-15                               |
+| GLM-5.3            | /        | 2026-08 | MoE | [🤗HF](https://huggingface.co/zai-org/GLM-5.3)              | [GLM-5](https://github.com/zai-org/GLM-5) ⭐ 7,444 \| 🐛 21 \| 📅 2026-10-15                               |
+| Qwen3.8-Flash-Next | A6/180B  | 2026-08 | MoE | [🤗HF](https://huggingface.co/Qwen/Qwen3.8-Flash-Next)      | [Qwen3.8-Flash-Next](https://github.com/QwenLM/Qwen3.8-Flash-Next) ⭐ 462 \| 🐛 9 \| 📅 2026-08-27         |
 | Ornith-1.5-35B-A3B | A3/35B   | 2026-08 | MoE | [🤗HF](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B) | /                                                                                                         |
 
 > 📋 查看全部 50+ 个模型请访问 [ReasoningLLM 完整列表 →](docs/reasoning-llm.md)
@@ -151,8 +151,8 @@
 
 |         模型         |    大小    | 时间      |  语言 |  领域 |                                下载                                |                                                     项目地址                                                     |                      机构/个人                      |                                            文                                            |
 | :----------------: | :------: | ------- | :-: | :-: | :--------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------: | :-------------------------------------------------------------------------------------: |
-|  WeMM-Embedding-2B |    2B    | 2026-08 |  中英 |  通用 |   [\[🤗HF\]](https://huggingface.co/tencent/WeMM-Embedding-2B)   |   [WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) ⭐ 1,808 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-29  |      [Tencent](https://github.com/Tencent)      | [Arxiv](https://arxiv.org/abs/2608.24053)，通用多模态 Embedding，支持文本/图像/视频/视觉文档，2048 维，支持 MRL |
-|   Qwen3-Embedding  | 0.6/4/8B | 2025-06 |  多语 |  通用 |   [\[🤗HF\]](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B)   | [Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding) ⭐ 2,067 \| 🐛 138 \| 🌐 Python \| 📅 2025-09-30 |       [QwenLM](https://github.com/QwenLM)       |                        [Arxiv](https://arxiv.org/abs/2506.05176)                        |
+|  WeMM-Embedding-2B |    2B    | 2026-08 |  中英 |  通用 |   [\[🤗HF\]](https://huggingface.co/tencent/WeMM-Embedding-2B)   |   [WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) ⭐ 1,809 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-29  |      [Tencent](https://github.com/Tencent)      | [Arxiv](https://arxiv.org/abs/2608.24053)，通用多模态 Embedding，支持文本/图像/视频/视觉文档，2048 维，支持 MRL |
+|   Qwen3-Embedding  | 0.6/4/8B | 2025-06 |  多语 |  通用 |   [\[🤗HF\]](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B)   | [Qwen3-Embedding](https://github.com/QwenLM/Qwen3-Embedding) ⭐ 2,068 \| 🐛 138 \| 🌐 Python \| 📅 2025-09-30 |       [QwenLM](https://github.com/QwenLM)       |                        [Arxiv](https://arxiv.org/abs/2506.05176)                        |
 |   JinaColBERT V2   |   large  | 2024-08 |  多语 |  通用 |     \[[🤗HF\]](https://huggingface.co/jinaai/jina-colbert-v2)    |                                                       /                                                      |     [Jina AI](https://huggingface.co/jinaai)    |                        [Paper](https://arxiv.org/abs/2408.16672)                        |
 | Conan-embedding-v1 |   large  | 2024-08 |  中文 |  通用 | \[[🤗HF\]](https://huggingface.co/TencentBAC/Conan-embedding-v1) |                                                       /                                                      | [TencentABC](https://huggingface.co/TencentBAC) |                        [Paper](https://arxiv.org/abs/2408.15710)                        |
 |      xiaobu-v2     |   large  | 2024-07 |  中文 |  通用 |  \[[🤗HF\]](https://huggingface.co/lier007/xiaobu-embedding-v2)  |                                                       /                                                      |    [lier007](https://huggingface.co/lier007)    |                                                                                         |
@@ -201,7 +201,7 @@ SuperCLUE琅琊榜，这是一个中文通用大模型对战评价基准，它�
 
 OpenCompass 是一款开源、高效、全面的评测大模型体系及开放平台。我们提供完整开源可复现的评测框架，支持大语言模型、多模态模型各类模型的一站式评测。利用分布式技术，即使面对千亿参数模型也能在数小时内完成评测。基于多个不同维度的高认可度数据集开放多样化的评测方式，包括零样本评测、小样本评测和思维链评测，全方位量化模型各个维度能力。
 
-\[[官方网站](https://opencompass.org.cn/)]   \[[Github](https://github.com/open-compass/opencompass) ⭐ 7,572 | 🐛 340 | 🌐 Python | 📅 2026-11-06]
+\[[官方网站](https://opencompass.org.cn/)]   \[[Github](https://github.com/open-compass/opencompass) ⭐ 7,576 | 🐛 341 | 🌐 Python | 📅 2026-11-06]
 
 ## 开源模型库平台
 
@@ -269,10 +269,10 @@ OpenCompass 是一款开源、高效、全面的评测大模型体系及开放�
 | 名称                      | 说明                                                                                                             | 作者/组织        | 地址                                                                                                               |
 | :---------------------- | :------------------------------------------------------------------------------------------------------------- | :----------- | :--------------------------------------------------------------------------------------------------------------- |
 | Awesome-OPD             | 使用 On-Policy Distillation (OPD) 和 On-Policy Self-Distillation (OPSD) 训练 LLM/VLM/Agent/Draft Model 的开源仓库和论文精选列表 | thinkwee     | [GitHub](https://github.com/thinkwee/AwesomeOPD) ⭐ 883 \| 🐛 0 \| 📅 2026-10-18                                  |
-| Awesome-Claude-Skills   | Claude技能、资源和工具                                                                                                 | ComposioHQ   | [GitHub](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 78,980 \| 🐛 1,886 \| 🌐 Python \| 📅 2026-09-18 |
-| Awesome-Claude-Code     | Claude Code相关技能和工具                                                                                             | hesreallyhim | [GitHub](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 57,452 \| 🐛 1,179 \| 🌐 Python \| 📅 2026-11-07 |
-| Awesome-OpenClaw-Skills | OpenClaw社区构建的技能                                                                                                | VoltAgent    | [GitHub](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 53,609 \| 🐛 9 \| 📅 2026-10-30                 |
-| Awesome-Agents          | 开源AI Agent工具和产品                                                                                                | kyrolabs     | [GitHub](https://github.com/kyrolabs/awesome-agents) ⭐ 2,995 \| 🐛 18 \| 📅 2026-11-04                           |
+| Awesome-Claude-Skills   | Claude技能、资源和工具                                                                                                 | ComposioHQ   | [GitHub](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 79,046 \| 🐛 1,890 \| 🌐 Python \| 📅 2026-09-18 |
+| Awesome-Claude-Code     | Claude Code相关技能和工具                                                                                             | hesreallyhim | [GitHub](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 57,528 \| 🐛 1,190 \| 🌐 Python \| 📅 2026-11-08 |
+| Awesome-OpenClaw-Skills | OpenClaw社区构建的技能                                                                                                | VoltAgent    | [GitHub](https://github.com/VoltAgent/awesome-openclaw-skills) ⭐ 53,625 \| 🐛 12 \| 📅 2026-10-30                |
+| Awesome-Agents          | 开源AI Agent工具和产品                                                                                                | kyrolabs     | [GitHub](https://github.com/kyrolabs/awesome-agents) ⭐ 2,997 \| 🐛 17 \| 📅 2026-11-04                           |
 
 [查看完整列表（共 52 个）→](docs/other-awesome.md)
 
@@ -313,4 +313,4 @@ OpenCompass 是一款开源、高效、全面的评测大模型体系及开放�
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
