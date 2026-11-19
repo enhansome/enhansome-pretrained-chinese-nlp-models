@@ -40,7 +40,7 @@
             "open_issues": 71,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27747,
+            "stars": 27750,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -61,7 +61,7 @@
             "open_issues": 214,
             "owner": "meta-llama",
             "repo": "llama3",
-            "stars": 29144,
+            "stars": 29143,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -82,7 +82,7 @@
             "open_issues": 8,
             "owner": "InternLM",
             "repo": "InternLM",
-            "stars": 7277,
+            "stars": 7276,
             "topics": [
               "chatbot",
               "chinese",
@@ -120,7 +120,7 @@
             "open_issues": 71,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27747,
+            "stars": 27750,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -141,7 +141,7 @@
             "open_issues": 71,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27747,
+            "stars": 27750,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -237,7 +237,7 @@
             "open_issues": 71,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27747,
+            "stars": 27750,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -279,7 +279,7 @@
             "open_issues": 71,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27747,
+            "stars": 27750,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -318,10 +318,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-08-28T03:24:37Z",
-            "open_issues": 328,
+            "open_issues": 332,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-V3",
-            "stars": 104864,
+            "stars": 104875,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -342,7 +342,7 @@
             "open_issues": 19,
             "owner": "Tencent-Hunyuan",
             "repo": "Tencent-Hunyuan-Large",
-            "stars": 1584,
+            "stars": 1583,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -363,7 +363,7 @@
             "open_issues": 71,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27747,
+            "stars": 27750,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -381,7 +381,7 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T07:36:54Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "OpenBMB",
             "repo": "MiniCPM",
             "stars": 11890,
@@ -411,7 +411,7 @@
             "open_issues": 71,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27747,
+            "stars": 27750,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -432,7 +432,7 @@
             "open_issues": 71,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27747,
+            "stars": 27750,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -453,7 +453,7 @@
             "open_issues": 79,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Coder-V2",
-            "stars": 7039,
+            "stars": 7038,
             "topics": []
           },
           "first_seen": "2026-08-28T21:26:34.065Z"
@@ -471,10 +471,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-08-13T05:59:38Z",
-            "open_issues": 187,
+            "open_issues": 186,
             "owner": "zai-org",
             "repo": "CodeGeeX",
-            "stars": 8795,
+            "stars": 8797,
             "topics": [
               "code-generation",
               "pretrained-models",
@@ -526,7 +526,7 @@
             "open_issues": 12,
             "owner": "MiniMax-AI",
             "repo": "MiniMax-Music3",
-            "stars": 1042,
+            "stars": 1045,
             "topics": []
           },
           "first_seen": "2026-08-30T15:21:21.866Z"
@@ -547,7 +547,7 @@
             "open_issues": 52,
             "owner": "MiniMax-AI",
             "repo": "MiniMax-H3",
-            "stars": 12014,
+            "stars": 12046,
             "topics": []
           },
           "first_seen": "2026-08-30T15:21:21.866Z"
@@ -595,7 +595,7 @@
             "open_issues": 4,
             "owner": "Tencent-Hunyuan",
             "repo": "Hy4-preview",
-            "stars": 446,
+            "stars": 447,
             "topics": []
           },
           "first_seen": "2026-08-30T15:21:21.866Z"
@@ -616,7 +616,7 @@
             "open_issues": 19,
             "owner": "zai-org",
             "repo": "GLM-5",
-            "stars": 7468,
+            "stars": 7470,
             "topics": [
               "agentic-ai",
               "coding",
@@ -642,7 +642,7 @@
             "open_issues": 19,
             "owner": "zai-org",
             "repo": "GLM-5",
-            "stars": 7468,
+            "stars": 7470,
             "topics": [
               "agentic-ai",
               "coding",
@@ -668,7 +668,7 @@
             "open_issues": 9,
             "owner": "QwenLM",
             "repo": "Qwen3.8-Flash-Next",
-            "stars": 482,
+            "stars": 483,
             "topics": []
           },
           "first_seen": "2026-08-30T15:21:21.866Z"
@@ -716,7 +716,7 @@
                 "open_issues": 138,
                 "owner": "QwenLM",
                 "repo": "Qwen3-Embedding",
-                "stars": 2076,
+                "stars": 2077,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:26:34.065Z"
@@ -896,10 +896,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T08:16:49Z",
-                "open_issues": 325,
+                "open_issues": 328,
                 "owner": "open-compass",
                 "repo": "opencompass",
-                "stars": 7602,
+                "stars": 7605,
                 "topics": [
                   "benchmark",
                   "evaluation",
@@ -968,7 +968,7 @@
             "open_issues": 22,
             "owner": "esbatmop",
             "repo": "MNBVC",
-            "stars": 4308,
+            "stars": 4310,
             "topics": [
               "chinese",
               "chinese-language",
@@ -1003,7 +1003,7 @@
             "open_issues": 0,
             "owner": "thinkwee",
             "repo": "AwesomeOPD",
-            "stars": 884,
+            "stars": 883,
             "topics": [
               "awesome-list",
               "distillation",
@@ -1026,10 +1026,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-18T07:16:11Z",
-            "open_issues": 1915,
+            "open_issues": 1912,
             "owner": "ComposioHQ",
             "repo": "awesome-claude-skills",
-            "stars": 79805,
+            "stars": 79875,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -1064,11 +1064,11 @@
             "id": 969302809,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T18:07:22Z",
+            "last_commit": "2026-11-19T18:07:51Z",
             "open_issues": 1278,
             "owner": "hesreallyhim",
             "repo": "awesome-claude-code",
-            "stars": 58294,
+            "stars": 58363,
             "topics": [
               "agent-skills",
               "agentic-code",
@@ -1109,7 +1109,7 @@
             "open_issues": 15,
             "owner": "VoltAgent",
             "repo": "awesome-openclaw-skills",
-            "stars": 53856,
+            "stars": 53862,
             "topics": [
               "agent-skills",
               "awesome",
@@ -1140,7 +1140,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-18T01:20:29Z",
-            "open_issues": 11,
+            "open_issues": 13,
             "owner": "kyrolabs",
             "repo": "awesome-agents",
             "stars": 3015,
@@ -1153,7 +1153,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:24:55.116Z",
+    "last_updated": "2026-11-19T19:29:34.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合",
